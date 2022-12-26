@@ -6,4 +6,6 @@
 - Bao gồm 2 dự án:
   + Dự án 1: phân tích bài báo chapter 3, trong sách: "Selected Papers on Design of Algorithms", Donald E. Knuth, 
 giải thích thuật toán Oneway-QuickSort và mô phỏng cách hoạt động.
+    File: Oneway_QuickSort.cpp và Folder: OneWay_QuickSort_Simualtion
   + Dự án 2: phân tích các thuật toán comparison sort, merge sort, quick sort, shell sort, selection sort và mô phỏng cách hoạt động của chúng.
+    Folder: DrawSort
