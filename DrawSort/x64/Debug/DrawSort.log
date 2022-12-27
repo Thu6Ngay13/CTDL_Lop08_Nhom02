@@ -1,0 +1,6 @@
+﻿  Draw_ComparisonSort.cpp
+D:\Cau truc du lieu va Giai thuat\DrawSort\graphics.h(164,13): warning C4273: 'SetConsoleMode': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi.h(114,1): message : see previous definition of 'SetConsoleMode'
+D:\Cau truc du lieu va Giai thuat\DrawSort\graphics.h(257,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
+D:\Cau truc du lieu va Giai thuat\DrawSort\graphics.h(258,16): warning C4244: '=': conversion from 'double' to 'SHORT', possible loss of data
+  DrawSort.vcxproj -> D:\Cau truc du lieu va Giai thuat\DrawSort\x64\Debug\DrawSort.exe
